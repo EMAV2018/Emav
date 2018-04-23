@@ -1,5 +1,5 @@
 Analisi dei requisiti:
-
+ 
 Il nostro progetto descrive una biblioteca digitale chiamata BiblioUnivaq, dove saranno descritte in maniera approfondita qui di seguito le entità che la compongono.  È una biblioteca free entry dove basterà registrarsi un’unica volta per accedervi; la registrazione, e i log-in che la seguiranno, saranno indicati nella home page nell’area Login Area, in  quest’ultima si può trovare tutto ciò che serve all’utente: i propri e-book, strumenti e risorse. Ci sarà l’area cardine della biblioteca interamente dedicata ai manoscritti, che saranno 60.000, divisi in categorie, in modo da facilitarne la ricerca. 
 Di seguito viene fornito l’elenco completo delle entità del sistema: 
 
