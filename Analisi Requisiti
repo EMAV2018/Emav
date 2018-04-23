@@ -20,7 +20,7 @@ Use-cases :
 1 viewer: 	
 
     1.1 consultazione;
-	  1.2 search;
+    1.2 search;
     1.3 dowload; 
     1.4 richiesta trascrittore;
     1.5 login;
@@ -29,21 +29,21 @@ Use-cases :
 2 uploader: 	   
 
     2.1 caricamento metadati;
-	  2.2 supervisione all’acquisizione;
+    2.2 supervisione all’acquisizione;
     
     
 3 transcriber:	    
 
     3.1 trasformazione in testo digitale;
-		3.2 sincronizzazione modifiche;
-		3.3 revisione;
+    3.2 sincronizzazione modifiche;
+    3.3 revisione;
     
     
 4 manager:  	     
 
     4.1 gestione assegnazioni;
     4.2 consente le revisioni;
- 	  4.3 consente pubblicazioni;
+    4.3 consente pubblicazioni;
     4.4 gestione trascrittori;
     4.5 consente la supervisione dell’aquisizione
     
